@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Michael — an English teacher who builds simple, useful tools for learning
 
-I'm a high school English teacher (AP Lang, AP Research, TOK, and EE) who likes to experiment with low-tech, high-impact edtech. Most of what I build is intentionally lightweight: fast-loading HTML games and interactive practice tools that students can open instantly, without logins, apps, or distractions.
+I'm a high school English teacher (AP Lang, AP Research, TOK, and EE) who likes to experiment with low-tech edtech. Most of what I build is intentionally lightweight: fast-loading HTML games and interactive practice tools that students can open without logins.
 
-These aren’t polished "apps" — they're small, standards-based activities that solve a very specific learning need. My goal is to keep developing these into clearer, more flexible tools, and eventually support multiple languages.
+These aren’t gancy "apps" — they're small, standards-based activities that solve a very specific learning need. My goal is to keep developing these into clearer, more flexible tools, and eventually move into more complex programs.
 
 ### 🎮 Classroom Games (GitHub Pages)
 Right now I'm building out a growing collection of focused browser-based games and practice tools:
@@ -33,7 +33,7 @@ They're all simple HTML/CSS/JS, but they help my students practice things we str
 
 ### 🎯 Why I Build This Stuff
 Because students need more *practice*, not more platforms.  
-If a 12-line JavaScript file can help them get reps with subordinating conjunctions or transitions, then great — ship it, test it with real students, and improve it.
+If a 12-line JavaScript file can help them get reps with subordinating conjunctions or transitions, then great — build it, test it with real students, and improve it.
 
 ### 🌱 Long-term
 I want to keep expanding these tools, make them more robust, and eventually broaden them to include more authentic inquiry-based tasks.
