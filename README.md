@@ -36,7 +36,7 @@ Because students need more *practice*, not more platforms.
 If a 12-line JavaScript file can help them get reps with subordinating conjunctions or transitions, then great — ship it, test it with real students, and improve it.
 
 ### 🌱 Long-term
-I want to keep expanding these tools, make them more robust, and eventually broaden them beyond English into more languages, more subjects, and more authentic inquiry-based tasks.
+I want to keep expanding these tools, make them more robust, and eventually broaden them to include more authentic inquiry-based tasks.
 
 ---
 
